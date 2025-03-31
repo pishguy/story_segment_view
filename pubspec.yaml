@@ -3,7 +3,7 @@ description: "A Flutter package that provides a customizable circular segment in
 version: 0.0.1
 repository: https://github.com/sinan-aktepe/story_segment_view
 homepage: https://github.com/sinan-aktepe/story_segment_view
-topics: [story, stories, instagram, reel, reels, social]
+topics: [story, stories, instagram, reel, reels]
 
 environment:
   sdk: ^3.6.0
