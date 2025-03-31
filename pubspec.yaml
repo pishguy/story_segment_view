@@ -1,8 +1,8 @@
 name: story_segment_view
 description: "A Flutter package that provides a customizable circular segment indicator around profile avatars."
 version: 0.0.1
-repository: https://github.com/sinan-aktepe/firecraft
-homepage: https://github.com/sinan-aktepe/firecraft
+repository: https://github.com/sinan-aktepe/story_segment_view
+homepage: https://github.com/sinan-aktepe/story_segment_view
 topics: [story, stories, instagram, reel, reels, social]
 
 environment:
