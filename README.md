@@ -2,6 +2,12 @@ This package provides a customizable circular segment indicator around profile a
 
 <img src="images/screenshot.png" alt="Story Segment View Example" width="400">
 
+
+priview for new features:
+
+https://github.com/user-attachments/assets/4d8bce4f-be0b-40a2-af47-8755fce8f52a
+
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
